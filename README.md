@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hey, I'm Nitin Tiwari
 
-<!--
-**Nitintiwari20/Nitintiwari20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Python Developer | Future AI Engineer**
+💻 Passionate about building real-world projects
+🎯 Goal: Crack Internship in 2026
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🌱 Currently learning **Python + AI/ML**
+* ⚡ Love solving problems & building projects
+* 🎮 Built my first Snake Game 🐍
+* 📈 Improving coding skills daily
+
+---
+
+## 🛠️ Tech Stack
+
+
+
+
+\
+
+---
+
+## 🚀 Projects
+
+### 🐍 Snake Game
+
+* Built using Python Turtle
+* Fun & interactive game
+* 📌 (Add your GitHub repo link here)
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: (Add your link)
+* 📧 Email: (Add your email)
+
+---
+
+## ⚡ Fun Fact
+
+> I turn coffee ☕ into code 💻
+
+---
+
+⭐ **If you like my work, give a star to my repos!**
