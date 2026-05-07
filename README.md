@@ -2,7 +2,7 @@
 
 🚀 **Python Developer | Future AI Engineer**
 💻 Passionate about building real-world projects
-🎯 Goal: Crack Internship in 2026
+🎯 Goal:Focused on top-tier Companies
 
 ---
 
@@ -41,7 +41,7 @@
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: (Add your link)
-* 📧 Email: (Add your email)
+* 📧 Email: (nitintiwari.tech20@gmail.com)
 
 ---
 
