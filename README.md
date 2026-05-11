@@ -15,15 +15,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-
-
-
-\
-
----
-
 ## 🚀 Projects
 
 ### 🐍 Snake Game
