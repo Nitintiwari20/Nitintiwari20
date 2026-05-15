@@ -21,7 +21,7 @@
 
 * Built using Python Turtle
 * Fun & interactive game
-* 📌 (Add your GitHub r)
+* 📌 (https://github.com/Nitintiwari20/practice/blob/main/Snake_game.py)
 
 ---
 
