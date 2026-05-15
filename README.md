@@ -21,7 +21,7 @@
 
 * Built using Python Turtle
 * Fun & interactive game
-* 📌 (Add your GitHub repo link here)
+* 📌 (Add your GitHub r)
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (Add your link)
+* 💼 LinkedIn: (https://www.linkedin.com/in/nitin-tiwari-717b8a296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 * 📧 Email: (nitintiwari.tech20@gmail.com)
 
 ---
