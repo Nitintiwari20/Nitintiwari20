@@ -1,9 +1,10 @@
-![GitHub Banner](./a_dark_high_tech_portfolio_banner_style_image_wit.png)
+<img width="1306" height="1204" alt="WhatsApp Image 2026-05-30 at 8 20 05 PM" src="https://github.com/user-attachments/assets/73eac11f-8898-4be9-a985-fa54ff8e6085" />
+
 
 # 👋 Hi, I’m Nitin Tiwari
 **B.Tech Computer Science Student | Linux Enthusiast | AI & ML Explorer | Full-Stack Developer**
 
-📍 Haridwar, India  
+📍 Haldwani Uttarakhand, India  
 💻 Currently learning **Linux Advanced Concepts, AI & ML**  
 🔗 [Connect with me on GitHub](https://github.com/Nitintiwari20)  
 
@@ -40,7 +41,7 @@
 - 📧 Email: [nitintiwari.tech20@gmail.com](mailto:nitintiwari.tech20@gmail.com)  
 - 📱 Mobile: +91 7251024629  
 - 🔗 LinkedIn: [Nitin Tiwari](https://www.linkedin.com/in/nitin-tiwari-717b8a296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
+- GitHub: [github.com/yourusername](https://github.com/Nitintiwari20)  
 
 ---
 
