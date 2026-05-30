@@ -1,4 +1,4 @@
-<img width="800" height="500" alt="WhatsApp Image 2026-05-30 at 8 20 05 PM" src="https://github.com/user-attachments/assets/73eac11f-8898-4be9-a985-fa54ff8e6085" />
+<img width="1000" height="800" alt="WhatsApp Image 2026-05-30 at 8 20 05 PM" src="https://github.com/user-attachments/assets/73eac11f-8898-4be9-a985-fa54ff8e6085" />
 
 
 # 👋 Hi, I’m Nitin Tiwari
@@ -37,7 +37,7 @@
 
 - Learning **Linux system administration, AI/ML, and Cybersecurity**
 
-- **Red Hat Linux Fundamentals (RH104) – Ver. 9.1**   <img width="500" height="390" alt="WhatsApp Image 2026-05-30 at 9 05 34 PM" src="https://github.com/user-attachments/assets/ccda621b-e6fc-4d15-9a80-3cfd3f26fdca" />
+- **Red Hat Linux Fundamentals (RH104) – Ver. 9.1**   <img width="300" height="200" alt="WhatsApp Image 2026-05-30 at 9 05 34 PM" src="https://github.com/user-attachments/assets/ccda621b-e6fc-4d15-9a80-3cfd3f26fdca" />
 
 ---
 
