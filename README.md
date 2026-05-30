@@ -23,16 +23,19 @@
 ### **Minor Project: Laundry Management Web App**
 - Full-stack web application to automate laundry services  
 - Features: Order management, client tracking, automated notifications  
-- Tech: HTML, CSS, JS, Python backend  
+- Tech: HTML, CSS, JS, Python backend
+- Netlify URL- https://laundrywallahwebapp.netlify.app/
+- github URL-https://github.com/Nitintiwari20/laundry-wallah-web-app
 
 ### **Fun Project: Snake Game**
 - Classic Snake game developed with Python and Pygame  
-- Features: Smooth controls, scoring, responsive UI  
-
+- Features: Smooth controls, scoring, responsive UI
+-  Github URL-https://github.com/Nitintiwari20/Snake_game
 ---
 
 ## 🏆 Achievements
-- **Red Hat Linux Fundamentals (RH104) – Ver. 9.1**  
+- **Red Hat Linux Fundamentals (RH104) – Ver. 9.1**   <img width="1080" height="825" alt="WhatsApp Image 2026-05-30 at 9 05 34 PM" src="https://github.com/user-attachments/assets/ccda621b-e6fc-4d15-9a80-3cfd3f26fdca" />
+
 - Learning **Linux system administration, AI/ML, and Cybersecurity**  
 
 ---
