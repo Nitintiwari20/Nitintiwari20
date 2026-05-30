@@ -1,4 +1,4 @@
-<img width="1306" height="1204" alt="WhatsApp Image 2026-05-30 at 8 20 05 PM" src="https://github.com/user-attachments/assets/73eac11f-8898-4be9-a985-fa54ff8e6085" />
+<img width="800" height="500" alt="WhatsApp Image 2026-05-30 at 8 20 05 PM" src="https://github.com/user-attachments/assets/73eac11f-8898-4be9-a985-fa54ff8e6085" />
 
 
 # 👋 Hi, I’m Nitin Tiwari
@@ -34,9 +34,10 @@
 ---
 
 ## 🏆 Achievements
-- **Red Hat Linux Fundamentals (RH104) – Ver. 9.1**   <img width="1080" height="825" alt="WhatsApp Image 2026-05-30 at 9 05 34 PM" src="https://github.com/user-attachments/assets/ccda621b-e6fc-4d15-9a80-3cfd3f26fdca" />
 
-- Learning **Linux system administration, AI/ML, and Cybersecurity**  
+- Learning **Linux system administration, AI/ML, and Cybersecurity**
+
+- **Red Hat Linux Fundamentals (RH104) – Ver. 9.1**   <img width="500" height="390" alt="WhatsApp Image 2026-05-30 at 9 05 34 PM" src="https://github.com/user-attachments/assets/ccda621b-e6fc-4d15-9a80-3cfd3f26fdca" />
 
 ---
 
@@ -49,5 +50,5 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?Nitintiwari20=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Nitintiwari20=yourusername&layout=compact&theme=radical)
