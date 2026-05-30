@@ -37,7 +37,8 @@
 
 - Learning **Linux system administration, AI/ML, and Cybersecurity**
 
-- **Red Hat Linux Fundamentals (RH104) – Ver. 9.1**   <img width="300" height="200" alt="WhatsApp Image 2026-05-30 at 9 05 34 PM" src="https://github.com/user-attachments/assets/ccda621b-e6fc-4d15-9a80-3cfd3f26fdca" />
+- **Red Hat Linux Fundamentals (RH104) – Ver. 9.1**
+- <img width="500" height="400" alt="WhatsApp Image 2026-05-30 at 9 05 34 PM" src="https://github.com/user-attachments/assets/ccda621b-e6fc-4d15-9a80-3cfd3f26fdca" />
 
 ---
 
