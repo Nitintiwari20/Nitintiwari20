@@ -1,47 +1,49 @@
-👋 Hi, I’m Nitin Tiwari
+![GitHub Banner](./a_dark_high_tech_portfolio_banner_style_image_wit.png)
 
-B.Tech Computer Science Student | Linux Enthusiast | AI & ML Explorer | Full-Stack Developer
+# 👋 Hi, I’m Nitin Tiwari
+**B.Tech Computer Science Student | Linux Enthusiast | AI & ML Explorer | Full-Stack Developer**
 
-📍 Haridwar, India
-💻 Currently learning Linux Advanced Concepts, AI & Machine Learning
-🔗 Connect with me on GitHub
+📍 Haridwar, India  
+💻 Currently learning **Linux Advanced Concepts, AI & ML**  
+🔗 [Connect with me on GitHub](https://github.com/Nitintiwari20)  
 
-🚀 About Me
+---
 
-I’m a curious and driven developer passionate about Linux, AI/ML, and building real-world applications. I love turning ideas into projects—whether it’s a web app, a game, or a system automation script.
+## 🛠 Skills
+**Languages:** Python, C++, C#, HTML, CSS, JavaScript  
+**Frameworks & Tools:** Docker, n8n, VS Code, Apache, Git & GitHub  
+**Tech Interests:** Linux, AI/ML, Cybersecurity, Game Development, IoT (Raspberry Pi)  
+**Certifications:** Red Hat Training: Linux Fundamentals (RH104)  
 
-Minor Project: Laundry Management Web App – Full-stack solution for automating laundry services
-Fun Project: Snake Game – Classic game implemented with clean code and smooth mechanics
-Constantly exploring Linux system administration and Red Hat certifications
-🛠 Skills
+---
 
-Languages: Python, C++, C#, HTML, CSS, JavaScript
-Frameworks & Tools: Docker, n8n, VS Code, Apache, Git & GitHub
-Tech Interests: Linux, AI/ML, Cybersecurity, Game Development, IoT (Raspberry Pi)
-Certifications: Red Hat Training: Linux Fundamentals (RH104)
+## 📂 Projects
 
-💡 Open Source Contributions
+### **Minor Project: Laundry Management Web App**
+- Full-stack web application to automate laundry services  
+- Features: Order management, client tracking, automated notifications  
+- Tech: HTML, CSS, JS, Python backend  
 
+### **Fun Project: Snake Game**
+- Classic Snake game developed with Python and Pygame  
+- Features: Smooth controls, scoring, responsive UI  
 
-Highlights:
+---
 
-75% commits in active projects, 23% pull requests → collaborative developer
-Focus on building practical projects and contributing to open-source communities
-📂 Projects
-Minor Project: Laundry Management Web App
-Full-stack web application to automate laundry services
-Features: Order management, client tracking, automated notifications
-Tech: HTML, CSS, JS, Python backend
-Fun Project: Snake Game
-Classic game developed with Python
-Features: Smooth controls, scoring, and responsive UI
-Learning Projects
-Linux automation scripts for servers
-AI/ML mini-projects using Python
-🏆 Achievements
-Red Hat Linux Fundamentals (RH104) – Ver. 9.1
-Completed multiple guided courses in Linux system administration & networking
-📫 Contact Me
-Email: your-email@example.com
-LinkedIn: linkedin.com/in/yourprofile
-GitHub: github.com/yourusername
+## 🏆 Achievements
+- **Red Hat Linux Fundamentals (RH104) – Ver. 9.1**  
+- Learning **Linux system administration, AI/ML, and Cybersecurity**  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: [nitintiwari.tech20@gmail.com](mailto:nitintiwari.tech20@gmail.com)  
+- 📱 Mobile: +91 7251024629  
+- 🔗 LinkedIn: [Nitin Tiwari](https://www.linkedin.com/in/nitin-tiwari-717b8a296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- GitHub: [github.com/yourusername](https://github.com/yourusername)  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
