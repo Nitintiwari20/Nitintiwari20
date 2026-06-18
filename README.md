@@ -4,7 +4,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: nitin](https://img.shields.io/badge/-nitin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitin-tiwari-717b8a296/)](https://www.linkedin.com/in/anmol098/)
+[![Linkedin: nitin](https://img.shields.io/badge/-nitin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitin-tiwari-717b8a296/)]( linkedin.com/in/nitin-tiwari-717b8a296/)
 [![Gmail Badge](https://img.shields.io/badge/-nitintiwari.tech20@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:nitintiwari.tech20@gmail.com)](mailto:nitintiwari.tech20@gmail.com)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
