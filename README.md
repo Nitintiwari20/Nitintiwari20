@@ -1,55 +1,68 @@
-<img width="1000" height="800" alt="WhatsApp Image 2026-05-30 at 8 20 05 PM" src="https://github.com/user-attachments/assets/73eac11f-8898-4be9-a985-fa54ff8e6085" />
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Nitin Tiwari! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>B. Tech. student at <a href="#">Uttarakhand Technical University
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Linkedin: nitin](https://img.shields.io/badge/-nitin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitin-tiwari-717b8a296/)](https://www.linkedin.com/in/anmol098/)
 
 
-# 👋 Hi, I’m Nitin Tiwari
-**B.Tech Computer Science Student | Linux Enthusiast | AI & ML Explorer | Full-Stack Developer**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-📍 Haldwani Uttarakhand, India  
-💻 Currently learning **Linux Advanced Concepts, AI & ML**  
-🔗 [Connect with me on GitHub](https://github.com/Nitintiwari20)  
+```javascript
+const nitin = {
+  name: "Nitin Tiwari",
+  pronouns: ["she", "her"],
+  languages: ["TypeScript", "JavaScript", "Python", "Dart"],
+  askMeAbout: [
+    "web development",
+    "AIML",
+    "Python Development",
+    "Linux",
+  ],
+
+  technologies: {
+    frontend: {
+      frameworks: ["React", "Next.js"],
+      styling: ["Tailwind CSS", "Bootstrap"]
+    },
+
+    backend: {
+      node: ["Node.js", "Express", "NestJS"],
+      python: ["Flask"]
+    },
+
+    devOps: {
+      tools: ["Docker", "GitHub Actions"],
+      practices: ["CI/CD", "Infrastructure as Code"]
+    },
+
+    databases: {
+      relational: ["MySQL"],
+      nosql: ["MongoDB"]
+    },
+
+    ai: {
+      generativeAI: [
+        "LLM integration",
+        "Prompt engineering",
+        "AI agents",
+        "Workflow automation"
+      ],
+      architectures: [
+        "agentic architecture",
+        "tool-augmented agents",
+        "multi-agent systems"
+      ],
+      models: ["OpenAI", "Gemini", "Llama"]
+    }
+  },
+
+currentFocus: "Looking for hands-on industry and real world experience",
+funFact: "I turn caffeine into code"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-
-## 🛠 Skills
-**Languages:** Python, C++, C#, HTML, CSS, JavaScript  
-**Frameworks & Tools:** Docker, n8n, VS Code, Apache, Git & GitHub  
-**Tech Interests:** Linux, AI/ML, Cybersecurity, Game Development, IoT (Raspberry Pi)  
-**Certifications:** Red Hat Training: Linux Fundamentals (RH104)  
-
----
-
-## 📂 Projects
-
-### **Minor Project: Laundry Management Web App**
-- Full-stack web application to automate laundry services  
-- Features: Order management, client tracking, automated notifications  
-- Tech: HTML, CSS, JS, Python backend
-- Netlify URL- https://laundrywallahwebapp.netlify.app/
-- github URL-https://github.com/Nitintiwari20/laundry-wallah-web-app
-
-### **Fun Project: Snake Game**
-- Classic Snake game developed with Python and Pygame  
-- Features: Smooth controls, scoring, responsive UI
--  Github URL-https://github.com/Nitintiwari20/Snake_game
----
-
-## 🏆 Achievements
-
-- Learning **Linux system administration, AI/ML, and Cybersecurity**
-
-- **Red Hat Linux Fundamentals (RH104) – Ver. 9.1**
-- <img width="500" height="400" alt="WhatsApp Image 2026-05-30 at 9 05 34 PM" src="https://github.com/user-attachments/assets/ccda621b-e6fc-4d15-9a80-3cfd3f26fdca" />
-
----
-
-## 📫 Contact Me
-- 📧 Email: [nitintiwari.tech20@gmail.com](mailto:nitintiwari.tech20@gmail.com)  
-- 📱 Mobile: +91 7251024629  
-- 🔗 LinkedIn: [Nitin Tiwari](https://www.linkedin.com/in/nitin-tiwari-717b8a296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- GitHub: [github.com/yourusername](https://github.com/Nitintiwari20)  
-
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?Nitintiwari20=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Nitintiwari20=yourusername&layout=compact&theme=radical)
