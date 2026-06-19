@@ -12,7 +12,7 @@
 ```javascript
 const nitin = {
   name: "Nitin Tiwari",
-  pronouns: ["she", "her"],
+  pronouns: ["he", "him"],
   languages: ["TypeScript", "JavaScript", "Python", "Dart"],
   askMeAbout: [
     "web development",
