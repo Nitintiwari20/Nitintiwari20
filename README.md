@@ -10,56 +10,50 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
+
 const nitin = {
   name: "Nitin Tiwari",
   pronouns: ["he", "him"],
-  languages: ["TypeScript", "JavaScript", "Python", "Dart"],
+
+  languages: [
+    "Python",
+    "SQL"],
+
   askMeAbout: [
-    "web development",
-    "AIML",
+    "Machine Learning",
+    "Data Analysis",
     "Python Development",
-    "Linux",
-  ],
+    "Linux"],
 
   technologies: {
-    frontend: {
-      frameworks: ["React", "Next.js"],
-      styling: ["Tailwind CSS", "Bootstrap"]
-    },
+    dataAnalysis: [
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Seaborn"],
 
-    backend: {
-      node: ["Node.js", "Express", "NestJS"],
-      python: ["Flask"]
-    },
+    machineLearning: [
+      "Scikit-learn",
+      "Data Preprocessing",
+      "Model Evaluation"],
 
-    devOps: {
-      tools: ["Docker", "GitHub Actions"],
-      practices: ["CI/CD", "Infrastructure as Code"]
-    },
+    backend: [
+      "Flask",
+      "FastAPI"],
 
-    databases: {
-      relational: ["MySQL"],
-      nosql: ["MongoDB"]
-    },
+    databases: [
+      "MySQL"],
 
-    ai: {
-      generativeAI: [
-        "LLM integration",
-        "Prompt engineering",
-        "AI agents",
-        "Workflow automation"
-      ],
-      architectures: [
-        "agentic architecture",
-        "tool-augmented agents",
-        "multi-agent systems"
-      ],
-      models: ["OpenAI", "Gemini", "Llama"]
-    }
+    tools: [
+      "Git",
+      "GitHub",
+      "VS Code"]
   },
+  currentFocus:
+    "Building practical Machine Learning and Data Analysis projects",
 
-currentFocus: "Looking for hands-on industry and real world experience",
-funFact: "I turn caffeine into code"
+  careerGoal:
+    "Seeking AI/ML and Data-Related opportunities"
 };
 ```
 
